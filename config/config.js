@@ -1,2 +1,4 @@
-export const marketplaceAddress = "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707";
-export const ownerAddress = "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266";
+
+    export const marketplaceAddress = "0x15B43D41d2d8673A3B3Da796bf47729009679aD7"
+    export const ownerAddress = "0xEBE6Fef839824aead55E3690aEEBbE8e9fAb2eD1"
+  
